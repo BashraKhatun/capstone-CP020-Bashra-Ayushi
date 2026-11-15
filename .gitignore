@@ -28,3 +28,12 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Python dashboard
+dashboard/.venv/
+dashboard/__pycache__/
+*.pyc
+
+# IntelliJ project files
+.idea/
+*.iml
